@@ -12,4 +12,4 @@ This project is a Python-based application that automates interactions with Inst
 - Login: Enter your Instagram credentials through the GUI. The tool securely logs you into your account.
 - Data Collection: It navigates to your followers and following pages, scrolling through the lists to collect all account data.
 - Comparison: The tool compares the lists to determine which accounts are not following you back.
-- Results Display: Presents the analysis in a clear and concise message, showing the total followers, total following, and the list of non-reciprocal accounts.
+- Results Display: Presents the analysis as a message window, showing the total followers, total following, and the list of non-reciprocal accounts.
