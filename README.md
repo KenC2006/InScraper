@@ -13,3 +13,7 @@ This project is a Python-based application that automates interactions with Inst
 - Data Collection: It navigates to your followers and following pages, scrolling through the lists to collect all account data.
 - Comparison: The tool compares the lists to determine which accounts are not following you back.
 - Results Display: Presents the analysis as a message window, showing the total followers, total following, and the list of non-reciprocal accounts.
+
+#### NOTE
+- Probably won't work correctly anymore since Instagram updates will change the html
+- Most likely ineffective for large follower/following counts do to Instagram blocking webscapping (better to use API)
