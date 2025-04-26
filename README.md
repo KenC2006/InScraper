@@ -15,5 +15,5 @@ This project is a Python-based application that automates interactions with Inst
 - Results Display: Presents the analysis as a message window, showing the total followers, total following, and the list of non-reciprocal accounts.
 
 #### NOTE
-- Probably won't work correctly anymore since Instagram updates will change the html
-- Most likely ineffective for large follower/following counts do to Instagram blocking webscapping (better to use API)
+- Probably won't work correctly anymore since Instagram updates change the html
+- Likely ineffective for large follower/following counts do to Instagram blocking webscapping (better to use API)
